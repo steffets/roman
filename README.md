@@ -1,4 +1,5 @@
 # Römische Zahlen
+Ein renommiertes Museum in Italien hat bei der Stuttgarter angerufen und uns Entwickler um Hilfe gebeten. Bei einer Ausgrabung wurde eine alte Schriftrolle entdeckt, welche Zahlencodes enthalten soll, mit denen eine Schatzkammer geöffnet werden kann. Unsere Mission, sofern wir diese annehmen, wäre es, die Zeichen der Schriftrolle auszulesen und so umzuwandeln, dass Zahlencodes entstehen, mit denen die Kammer geöffnet werden kann.
 
 ## Beispiele
 ```
